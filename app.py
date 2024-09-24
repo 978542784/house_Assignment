@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 修改后的路径，使用其中一种方法
-df = pd.read_csv(r'C:\Users\97854\Desktop\刘天翔\西南财经大学\大三上\机器学习\MISY331-Fall-2024-MIS\house_Assignment\housing\housing.csv')
+df = pd.read_csv(r'housing.csv')
 
 st.title('California Housing Data (1990) by Joy Liu')
 
